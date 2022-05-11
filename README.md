@@ -1,2 +1,2 @@
-# medfolio-backend
+# Medfolio-Backend
 Backend for medfolio app
